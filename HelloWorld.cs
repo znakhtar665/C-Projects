@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorldProject
 {
-    internal class Program
+    internal class HelloWorld
     {
         static void Main(string[] args)
         {
